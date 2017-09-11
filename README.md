@@ -1,7 +1,7 @@
 # Lab Exercise 1: Introduction to C, Git, and the MSP430
 This lab is meant to be a gentle introduction to working with the code provided over github, adding your own code, C programming, and getting your launchpads to work. The due date for this Lab exercise is the date of submission for the Milestone project.
 
-## Assignment Blah
+## Assignment
 The overall goal of this exercise is to generate a "math.c" and "math.h" file that can eventually be placed into an example UART Calculator code. You will be responsible for generating the function as prototyped in the "math.h" file provided, and include the capability to add, substract, multiply, integer divide, and modulus. This hopefully will be a simple task, and you will not need to worry about getting this specific code to run on your processor.  So what you need to do to complete this is:
 1. Generate a new repository to work in from Github classroom (if you are reading this, you most likely have done this).
 2. Run the example code provided to ensure that you can communicate over UART to your launchpads.
@@ -13,9 +13,9 @@ The overall goal of this exercise is to generate a "math.c" and "math.h" file th
 ## Lab "Report"
 Good news! You do not have to write a lab report on what you do in this lab. Instead, we would rather see you develop your documentation skills so that the code you develop can be used by yourself and others in the future. What this means is that you will have to learn how to write what you are reading right now, a README.md. You are responsible for each set of code (.c and .h file) to generate documentation on the software, its use, and how it works. 
 ### Jekyll Markdown
-You might notice a file in your repsoitory with a .yml configuration. This is a configuration file for the built in Github Pages generator to utilize. With each of your repositories, you can actually generate a website for free. Other than the website, you may notice in your repository page that the text below the files are formatted. This also comes from that markdown. There are a ton of guides on how to use Github markdown and it requires no experience with HTML, such as [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
+You might notice a file in your repository with a .yml configuration. This is a configuration file for the built in Github Pages generator to utilize. With each of your repositories, you can actually generate a website for free. Other than the website, you may notice in your repository page that the text below the files are formatted. This also comes from that markdown. There are a ton of guides on how to use Github markdown and it requires no experience with HTML, such as [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). 
 ### Documenting your Code
-While a README will provide people a quick look at what is in your repository and maybe cover how to use the functions/library, you still need to thoroughly document your code. I can't stress enough how important it is to really become proficiant at writing your code. Later on this semester, your documentation skills will be put to the ultimate test, so you need to practice while you can. What I would consider good code documentation is:
+While a README will provide people a quick look at what is in your repository and maybe cover how to use the functions/library, you still need to thoroughly document your code. I can't stress enough how important it is to really become proficient at writing your code. Later on this semester, your documentation skills will be put to the ultimate test, so you need to practice while you can. What I would consider good code documentation is:
 * Does it tell a user who wrote it, when it was written, last time it was updated?
 * Does it tell a user what libraries it is dependent on?
 * Can someone who has never seen your code before _CLEARLY_ understand what your code is doing?
