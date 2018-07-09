@@ -52,4 +52,4 @@ Git bash will allow you to access and manage repositories through your command l
 #### GitKraken
 
 
-![GitKraken Thumbnail](https://youtu.be/ZKkMwTeAij4)
+[GitKraken Setup Tutorial](https://youtu.be/ZKkMwTeAij4)
